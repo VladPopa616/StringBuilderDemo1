@@ -1,0 +1,7 @@
+C:\Users\vpopa\source\repos\StringBuilderDemo1\StringBuilderDemo1\bin\Debug\StringBuilderDemo1.exe.config
+C:\Users\vpopa\source\repos\StringBuilderDemo1\StringBuilderDemo1\bin\Debug\StringBuilderDemo1.exe
+C:\Users\vpopa\source\repos\StringBuilderDemo1\StringBuilderDemo1\bin\Debug\StringBuilderDemo1.pdb
+C:\Users\vpopa\source\repos\StringBuilderDemo1\StringBuilderDemo1\obj\Debug\StringBuilderDemo1.csprojAssemblyReference.cache
+C:\Users\vpopa\source\repos\StringBuilderDemo1\StringBuilderDemo1\obj\Debug\StringBuilderDemo1.csproj.CoreCompileInputs.cache
+C:\Users\vpopa\source\repos\StringBuilderDemo1\StringBuilderDemo1\obj\Debug\StringBuilderDemo1.exe
+C:\Users\vpopa\source\repos\StringBuilderDemo1\StringBuilderDemo1\obj\Debug\StringBuilderDemo1.pdb
